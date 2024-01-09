@@ -20,7 +20,7 @@ const Map = () => {
     lng: 78.9629,
   };
 
-  const GOOGLE_MAP_API_KEY = import.meta.env.VITE_GOOGLE_MAP_API_KEY;
+  const GOOGLE_MAP_API_KEY = "AIzaSyA1zhG-9X6qvyInkIGxrju7_l6vUsQV4dQ";
 
   return (
     <div className='map-container'>
